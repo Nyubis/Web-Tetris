@@ -1,4 +1,4 @@
-Play the game [here](http://nyubis.github.com/Web-Tetris/).
+Play the game [here](http://nyubis.github.com/Web-Tetris/tetris.html).
 
 A simple tetris clone made in HTML 5 and Javascript.
 The HTML is limited to a basic canvas. All of the actual code is in the tetris.js file.
